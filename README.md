@@ -4,4 +4,4 @@
 css来自网上。  
 代码简单，clone后，进入index.html ，按个F11 ， 自己偷偷爽一把
 
-![预览](https://github.com/ABUGADAY/aSimpleTypedView/blob/master/img/prev.jpg)
+![预览](https://github.com/ABUGADAY/aSimpleTypedView/blob/master/img/prev.png)
